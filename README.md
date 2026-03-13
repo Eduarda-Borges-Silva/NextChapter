@@ -1,23 +1,23 @@
-# NextChapter ñ Biblioteca Digital com IntegraÁ„o Kindle
+Ôªø# NextChapter ‚Äì Biblioteca Digital com Integra√ß√£o Kindle
 
-Projeto criado com Create React App e adaptado para as especificaÁıes do professor.
+Projeto criado com Create React App e adaptado para as especifica√ß√µes do professor.
 
-## ?? Tecnologias usadas
+## üõ† Tecnologias usadas
 
 * React (Create React App)
 * Material UI (componentes)
-* Framer Motion (animaÁıes)
+* Framer Motion (anima√ß√µes)
 * React Router DOM (rotas)
 * Google Books API (dados de livros)
 
-## ?? ConfiguraÁ„o e execuÁ„o
+## ‚öôÔ∏è Configura√ß√£o e execu√ß√£o
 
-1. Navegue atÈ o diretÛrio:
+1. Navegue at√© o diret√≥rio:
    ```bash
    cd nextchapter
    ```
 
-2. Instale dependÍncias:
+2. Instale depend√™ncias:
    ```bash
    npm install
    ```
@@ -27,12 +27,12 @@ Projeto criado com Create React App e adaptado para as especificaÁıes do profess
    ```
 4. Acesse http://localhost:3000
 
-## ?? Hospedagem
+## üîó Hospedagem
 
 O projeto pode ser publicado em Vercel, Netlify ou Firebase Hosting. Exemplo de link:
 ```
 https://nextchapter-books.vercel.app
 ```
 
-> Este README foi elaborado seguindo os critÈrios do professor e pode ser copiado diretamente para entrega.
+> Este README foi elaborado seguindo os crit√©rios do professor e pode ser copiado diretamente para entrega.
 
